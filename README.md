@@ -52,5 +52,7 @@ s)해제할게~
 2. 보안성이 안좋음
 3. 속도가 빠름
 4. 1대 다 또는 다대 다 통신이 가능
+
+
 https://mindnet.tistory.com/entry/%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EC%89%BD%EA%B2%8C-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-22%ED%8E%B8-TCP-3-WayHandshake-4-WayHandshake
 해당 글을 참조하여 제작된 게시글입니다.
